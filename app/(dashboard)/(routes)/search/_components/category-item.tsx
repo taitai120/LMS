@@ -13,7 +13,7 @@ interface CategoryItemProps {
   value: string;
 }
 
-export const CategoryItem = async ({
+export const CategoryItem = ({
   key,
   label,
   icon: Icon,
